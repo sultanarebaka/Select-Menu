@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Roboto:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding: 0;
+
+    font-family: 'poppins', sans-serif;
+
+}
+body{
+    display:flex;
+    justify-content: center;
+    min-height: 100vh;
+    background: #fafafa;
+
+}
+.dropdown{
+    position: relative apt update
+    
+    ;
+    margin-top: 100px;
+    width:300px;
+    height:50px;
+}
+.dropdown input {
+    position: absolute;
+
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+
+
