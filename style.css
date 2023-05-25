@@ -42,3 +42,11 @@ dropdown > input {
     border-radius: 10px;
 }
 
+.dropdown .option{
+    position: absolute;
+    top:80px;
+    width:100%;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+}
