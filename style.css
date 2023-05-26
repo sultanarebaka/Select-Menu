@@ -28,7 +28,7 @@ body{
     width:8px;
     height:8px;
 }
-dropdown > input {
+.dropdown > input {
     position: absolute;
     top:0;
     left:0;
@@ -50,3 +50,15 @@ dropdown > input {
     border-radius: 10px;
     overflow: hidden;
 }
+
+.dropdown .active .option {
+    display:block;
+}
+
+.dropdown .option div {
+    padding: 12px 20px;
+    cursor:pointer;
+}
+
+
+
